@@ -1,6 +1,10 @@
 # Switching Modes Mobile ---Lite
 The mobile (React Native) version of my Switching Modes---Lite (Angular) app.
 
+<p align="center"> 
+  <img height="485" width="300" src="https://github.com/peta-byte/Switching-Modes-Mobile---Lite/blob/master/switching%20modes%20mobile%20gif.gif?raw=true" /> 
+</p>
+
 To use these files:
 
 1. Install expo on your machine: `npm i -g expo expo-cli`
